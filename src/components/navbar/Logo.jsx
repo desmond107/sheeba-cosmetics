@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Logo = () => {
   return (
     <Link to="/">
-      <div className="font-monoton text-3xl hover:text-red-800 cursor-pointer text-center transition">
-        eyesome
+      <div className="font-monoton text-3xl hover:text-yellow-800 cursor-pointer text-center transition">
+        SHEEBA
       </div>
     </Link>
   );

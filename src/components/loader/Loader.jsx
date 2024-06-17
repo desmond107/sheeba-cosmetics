@@ -9,17 +9,17 @@ const Loader = () => {
           width={100}
           src={loadingGif}
           alt="loading..."
-          className="opacity-[0.25]"
+          className="opacity-[1.25]"
         />
       </span>
       <div className="text-container">
-        <span className="letter">E</span>
-        <span className="letter">Y</span>
-        <span className="letter">E</span>
         <span className="letter">S</span>
-        <span className="letter">O</span>
-        <span className="letter">M</span>
+        <span className="letter">H</span>
         <span className="letter">E</span>
+        <span className="letter">E</span>
+        <span className="letter">B</span>
+        <span className="letter">A</span>
+        
       </div>
     </div>
   );
