@@ -48,7 +48,7 @@ const Navbar = () => {
         <section className="relative flex items-center">
           <Link to="/profile">
             <img
-              className="rounded-full border-2  bg-yellow-300 me-3 hover:bg-yellow-500 cursor-pointer"
+              className="rounded-full border-2  bg-transparent-300 me-3 hover:bg-yellow-500 cursor-pointer"
               src={defaultUser}
               alt="userProfileImage"
               width={40}
@@ -82,7 +82,7 @@ const Navbar = () => {
               )}
             </li>
             <li
-              className="relative bg-yellow-500 text-white p-2 rounded-full hover:bg-yellow-800 cursor-pointer mx-2 transition shadow-sm"
+              className="relative bg-blue-500 text-white p-2 rounded-full hover:bg-yellow-800 cursor-pointer mx-2 transition shadow-sm"
               onClick={() => navigate("/cart")}
             >
               <HiOutlineShoppingBag />
