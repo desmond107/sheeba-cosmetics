@@ -9,7 +9,7 @@ const Loader = () => {
           width={100}
           src={loadingGif}
           alt="loading..."
-          className="opacity-[0.25]"
+          //className="opacity-[0.25]"
         />
       </span>
       <div className="text-container">

@@ -10,10 +10,10 @@ const Banner = ({ catRef }) => {
     <main className=" flex justify-between items-center py-1 mb-5  relative">
       <section className="max-w-xl mx-auto sm:mx-0  w-full py-2  lg:w-1/3">
         <h1 className="text-6xl  sm:text-7xl lg:text-8xl font-semibold  py-3 w-full ">
-          Glasses & Lens
+          Cosmetics & Beauty Products
         </h1>
         <p className="py-3 text-md  text-gray-600">
-          Buy the best high-quality sunglasses from us.
+          Buy the best high-quality Beauty Cosmetics from us.
           <br />
           More than 100 types of assortment.
         </p>
