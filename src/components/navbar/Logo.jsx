@@ -5,7 +5,10 @@ const Logo = () => {
   return (
     <Link to="/">
       <div className="font-monoton text-3xl hover:text-red-800 cursor-pointer text-center transition">
-        eyesome
+        SHEEBA
+      </div>
+      <div className="georgia text-3xl hover:text-black-800 cursor-pointer text-center transition">
+        cosmetics
       </div>
     </Link>
   );
