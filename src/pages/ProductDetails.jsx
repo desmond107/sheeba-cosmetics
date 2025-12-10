@@ -85,7 +85,7 @@ const ProductDetails = () => {
                   {product?.gender}
                 </li>
                 <li>
-                  <span className="text-gray-500 text-sm">Heavy: </span>
+                  <span className="text-gray-500 text-sm">Weight: </span>
                   {product?.weight}
                 </li>
               </div>
@@ -95,10 +95,10 @@ const ProductDetails = () => {
           <div className="flex gap-2 items-center pb-10 sm:pb-0">
             Price:
             <span className="ms-1 text-xl sm:text-2xl text-amber-600">
-              ₹{product?.newPrice}
+              Ksh{product?.newPrice}
             </span>
             <span className="text-sm text-gray-600 line-through">
-              ₹{product?.price}
+              Ksh{product?.price}
             </span>
           </div>
 

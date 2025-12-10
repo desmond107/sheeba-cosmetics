@@ -31,7 +31,7 @@ const Wishlist = () => {
             Nothing to Show!
           </span>
           <p className="text-gray-400">
-            Unlock Your Shopping Desires: Fill Your Empty Wishlist
+            Unlock Your Beauty Desires: Fill Your Empty Wishlist
           </p>
         </div>
       )}
