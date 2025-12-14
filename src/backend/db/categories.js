@@ -49,7 +49,7 @@ export const categories = [
   },
   {
     _id: "937d27a0-51b7-4005-bb04-4f5f111eac90",
-    categoryName: "supplements",
+    categoryName: "supplement",
     description:
       "Stay focused and perform at your best with our high-performance sports glasses.",
     categoryImg: supplements,
