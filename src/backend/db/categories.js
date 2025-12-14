@@ -1,6 +1,9 @@
-import glassCategory1 from "../../assets/categories/visionmod1.jpg";
-import glassCategory2 from "../../assets/categories/sunmod1.jpg";
-import glassCategory3 from "../../assets/categories/visionmod1.gif";
+import face from "../../assets/categories/face.gif";
+import bodycare from "../../assets/categories/bodycare.gif";
+import makeup from "../../assets/categories/makeup.gif";
+import hair from "../../assets/categories/hair.gif";
+import perfumes from "../../assets/categories/perfumes.gif";
+import supplements from "../../assets/categories/supplements.gif";
 
 
 /**
@@ -14,41 +17,41 @@ export const categories = [
     categoryName: "face",
     description:
       "Clear vision and stylish frames for a perfect blend of functionality and fashion",
-    categoryImg: glassCategory1,
+    categoryImg: face,
   },
   {
     _id: "937d27a0-51b7-4005-bb04-4f5f111eac90",
     categoryName: "makeup",
     description:
       "Stay focused and perform at your best with our high-performance sports glasses.",
-    categoryImg: glassCategory3,
+    categoryImg: makeup,
   },
   {
     _id: "1164f45b-1659-4631-88d7-47325bb21eff",
     categoryName: "bodycare",
     description:
       "Protect your eyes in style with our UV-protected sunglasses collection.",
-    categoryImg: glassCategory2,
+    categoryImg: bodycare,
   },
   {
     _id: "937d27a0-51b7-4005-bb04-4f5f111eac90",
     categoryName: "perfumes",
     description:
       "Stay focused and perform at your best with our high-performance sports glasses.",
-    categoryImg: glassCategory3,
+    categoryImg: perfumes,
   },
   {
     _id: "937d27a0-51b7-4005-bb04-4f5f111eac90",
     categoryName: "hair",
     description:
       "Stay focused and perform at your best with our high-performance sports glasses.",
-    categoryImg: glassCategory3,
+    categoryImg: hair,
   },
   {
     _id: "937d27a0-51b7-4005-bb04-4f5f111eac90",
-    categoryName: "supliments",
+    categoryName: "supplements",
     description:
       "Stay focused and perform at your best with our high-performance sports glasses.",
-    categoryImg: glassCategory3,
+    categoryImg: supplements,
   },
 ];
